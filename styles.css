@@ -1,12 +1,32 @@
 html {
-	background-color: gray;
+	background-color: yellow;
 }
 
 body {
-	background: white;
+	background: yellow;
 	width: 50%;
 	margin: 10px auto;
 	padding: 10px;
+
+}
+
+h1{
+	font-size:80px;
+	font-family: "Georgia";
+	font-style: italic;
+	font-weight: black;
+	text-align: center;
+	color:red;
+
+}
+
+h2{
+	font-size:70px;
+	font-family: "Hei";
+	margin-top: 0vh;
+	font-weight:bold;
+	text-align: center;
+	color:red;
 
 }
 
